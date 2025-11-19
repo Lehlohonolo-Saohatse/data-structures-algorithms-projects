@@ -83,4 +83,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*Created for Data Structures and Algorithms, North-West University, November 19, 2025.*
+*Created for Data Structures and Algorithms, North-West University
